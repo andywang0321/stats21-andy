@@ -8,4 +8,5 @@ Colors of the rainbow:
 3. yellow
 4. green
 5. blue
-6. purple
+6. indigo
+7. violet
